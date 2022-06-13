@@ -53,6 +53,10 @@ export default siteConfig({
     {
       title: 'About',
       url: "https://marcorichetta.vercel.app/about"
+    },
+    {
+      title: 'Home',
+      url: "https://marcorichetta.vercel.app/"
     }
   ]
 })
